@@ -12,3 +12,5 @@ tags:								#标签
 
 ## Abstract
 >In the note, a local regularity condition for axisymmetric solutions to the non-stationary 3D Navier-Stokes equations is proven. It reads that axially symmetric energy solutions to the Navier-Stokes equations have no Type I blowups.
+
+>[![NS.png](https://i.postimg.cc/BbV0w1T9/NS.png)](https://postimg.cc/xNMhX8pt)
